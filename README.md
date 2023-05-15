@@ -12,4 +12,5 @@
 - dimgray | #616575 | rgb(97,101,117)
 
 **Sample:**
+
 ![https://someurl/imagelocation/sample1.PNG](https://raw.githubusercontent.com/women-in-ai-ireland/WAI-Resources/main/sample1.PNG)
